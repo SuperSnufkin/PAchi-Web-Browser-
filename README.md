@@ -1,2 +1,4 @@
 # PAchi-Web-Browser-
-Un Navegador sencillohecho en Python 
+Un Navegador sencillo hecho en Python 
+
+
